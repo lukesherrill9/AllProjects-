@@ -31,7 +31,13 @@ Our final model demonstrated strong business impact, with a projected 9% reducti
 My senior capstone explored AI's impact on New York City's tech job sector, examining whether AI will be a catalyst for job creation or an inhibitor in an evolving industry. Through interviews with 10 professionals, including Sarah Brown (Tech: NYC), Emma Goldberg (The New York Times), Robert Seamans (NYU Stern), Meredith Broussard (AI researcher), and Hilke Schellmann (author of The Algorithm), I investigated the role of AI in finance, media, hiring practices, and corporate innovation. The piece highlighted both AI’s potential to enhance efficiency and concerns over job displacement, bias in algorithms, and ethical considerations in workforce applications.
 The overarching message was that AI will not replace jobs overnight but will gradually reshape industries, requiring businesses and policymakers to navigate its implications carefully. Experts emphasized that AI should complement human workers rather than replace them, but concerns remain about hiring biases, labor shifts, and the unpredictability of AI’s long-term impact. As New York positions itself as an AI hub, balancing innovation with regulation, transparency, and workforce adaptation will be crucial in shaping its future role in the city’s economy. Real exercise in time management, flexibility, communication.
 
+Managerial Healthcare 
 
+
+This project explored how artificial intelligence is transforming the healthcare industry through predictive analytics, generative modeling, and personalized medicine. Our team analyzed AI’s role in areas such as clinical diagnosis, drug discovery, and patient care, demonstrating how tools like DeepMind’s Deep Variant and Medtronic’s GI Genius use machine learning to detect diseases earlier and improve treatment accuracy. We examined how predictive AI enables data-driven insights in insurance, scheduling, and patient outcomes forecasting, emphasizing the growing efficiency and innovation potential within healthcare systems that adopt advanced AI frameworks.
+
+
+From a technical perspective, the project highlighted how machine learning models process vast datasets to identify medical patterns, predict disease likelihood, and optimize resource allocation. Beyond functionality, we investigated ethical challenges tied to bias, privacy, and data governance, referencing Pew Research and BMC Medical Ethics studies on public trust and AI bias in healthcare. The research underscored the importance of transparency, fairness, and security when implementing AI systems in sensitive domains like medicine—illustrating that responsible adoption must balance innovation with patient protection and ethical integrity.
 
 
 
